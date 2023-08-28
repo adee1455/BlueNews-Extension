@@ -1,0 +1,14 @@
+{
+    "name": "Blue News",
+    "version": "0.0.1",
+    "description": "A simple news app",
+    "manifest_version": 3,
+    "author": "Adee Shaikh",
+     "action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html",
+        "default_title": "Blue News"
+     },
+     "permissions": ["activeTab"]
+
+}

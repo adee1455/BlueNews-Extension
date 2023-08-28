@@ -1,0 +1,42 @@
+body{
+    min-width: 500px;
+    min-height: 300px;
+    height: fit-content;
+    background-color: rgb(24, 27, 30);
+    border-radius: 20px;
+    
+}
+.title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#newsElement{
+
+    border: 1px solid rgb(158, 194, 251);
+    border-radius: 10px;
+    padding: 8px;
+    margin-bottom:8px;
+   color: white;
+    
+}
+#news{
+    color: white;
+    
+    
+}
+#newsLink  {
+    text-decoration: none;
+    color: white;
+}
+#newsLink :hover {
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
