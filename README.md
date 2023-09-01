@@ -6,5 +6,6 @@ Steps to Test/Use the Extension:
 2) Download Zip -> Extract
 3) Go on Chrome
 4) type - chrome://extensions/
-5) Click - Load Unpacked -> Select Folder
-6) Now Check your Extensions & Pin Blue News
+5) Turn on Developer Mode
+6) Click - Load Unpacked -> Select Folder
+7) Now Check your Extensions & Pin Blue News
